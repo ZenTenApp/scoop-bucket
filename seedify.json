@@ -1,19 +1,19 @@
 {
-    "version": "1.29.0",
+    "version": "1.30.0",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/ZenTenApp/seedify/releases/download/v1.29.0/seedify_1.29.0_Windows_i386.zip",
+            "url": "https://github.com/ZenTenApp/seedify/releases/download/v1.30.0/seedify_1.30.0_Windows_i386.zip",
             "bin": [
-                "seedify_1.29.0_Windows_i386/seedify.exe"
+                "seedify_1.30.0_Windows_i386/seedify.exe"
             ],
-            "hash": "4fde0a1b9c68103c12ec448d04a2426a421f1eab7a129ea8dffc4bbf6e02b625"
+            "hash": "149f215111fe5d442929136a4736b16c886a1a4c7ce84b14f3fdfe1e6bebf648"
         },
         "64bit": {
-            "url": "https://github.com/ZenTenApp/seedify/releases/download/v1.29.0/seedify_1.29.0_Windows_x86_64.zip",
+            "url": "https://github.com/ZenTenApp/seedify/releases/download/v1.30.0/seedify_1.30.0_Windows_x86_64.zip",
             "bin": [
-                "seedify_1.29.0_Windows_x86_64/seedify.exe"
+                "seedify_1.30.0_Windows_x86_64/seedify.exe"
             ],
-            "hash": "b03ebdf95bd88ed69ede45151797f92d005eaf3519d629528000e5daea94330d"
+            "hash": "12af46cf6b270ef8f8b22e85237603532ab5f43c770294fd9390f704adc0be6b"
         }
     },
     "homepage": "https://github.com/ZenTenApp/seedify",
