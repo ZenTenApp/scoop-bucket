@@ -1,0 +1,21 @@
+{
+    "version": "0.1.1",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/ZenTenApp/meltify/releases/download/v0.1.1/meltify_0.1.1_Windows_i386.zip",
+            "bin": [
+                "meltify_0.1.1_Windows_i386/meltify.exe"
+            ],
+            "hash": "54866c24cdbf242d146e07c62766c1bc1747c1663e3c1fe8baccb9ef7e714028"
+        },
+        "64bit": {
+            "url": "https://github.com/ZenTenApp/meltify/releases/download/v0.1.1/meltify_0.1.1_Windows_x86_64.zip",
+            "bin": [
+                "meltify_0.1.1_Windows_x86_64/meltify.exe"
+            ],
+            "hash": "3518eb32144845fe49a9566e30ff30634dced2f4d0f53776a2aae66cac65bffc"
+        }
+    },
+    "homepage": "https://github.com/ZenTenApp/meltify",
+    "license": "MIT"
+}
