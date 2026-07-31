@@ -1,19 +1,21 @@
 {
-    "version": "0.1.2",
+    "version": "0.1.3",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/ZenTenApp/meltify/releases/download/v0.1.2/meltify_0.1.2_Windows_i386.zip",
+            "url": "https://github.com/ZenTenApp/meltify/releases/download/v0.1.3/meltify_0.1.3_Windows_i386.zip",
             "bin": [
-                "meltify_0.1.2_Windows_i386/meltify.exe"
+                "meltify_0.1.3_Windows_i386/meltify.exe",
+                "meltify_0.1.3_Windows_i386/meltify-beldex.exe"
             ],
-            "hash": "219fdf389447739f2d4a5dfbed83d00b37377dcc7557849e9b043e82b3a51ad5"
+            "hash": "1d9af717c151c8e2a233d9cea1134d5d2cc3a76bd42deb5e00831e36508e4dbd"
         },
         "64bit": {
-            "url": "https://github.com/ZenTenApp/meltify/releases/download/v0.1.2/meltify_0.1.2_Windows_x86_64.zip",
+            "url": "https://github.com/ZenTenApp/meltify/releases/download/v0.1.3/meltify_0.1.3_Windows_x86_64.zip",
             "bin": [
-                "meltify_0.1.2_Windows_x86_64/meltify.exe"
+                "meltify_0.1.3_Windows_x86_64/meltify.exe",
+                "meltify_0.1.3_Windows_x86_64/meltify-beldex.exe"
             ],
-            "hash": "db3dfad5e3700ad638a25c4716408ea4fa7ced07a0a65869813a67a6a24e18c1"
+            "hash": "317c96c7520ff3f5112e6ca8155a9c62d9115abdb9f33c008a823c90d6a914b4"
         }
     },
     "homepage": "https://github.com/ZenTenApp/meltify",
