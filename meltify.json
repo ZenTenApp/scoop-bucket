@@ -1,21 +1,29 @@
 {
-    "version": "0.1.3",
+    "version": "0.1.4",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/ZenTenApp/meltify/releases/download/v0.1.3/meltify_0.1.3_Windows_i386.zip",
+            "url": "https://github.com/ZenTenApp/meltify/releases/download/v0.1.4/meltify_0.1.4_Windows_i386.zip",
             "bin": [
-                "meltify_0.1.3_Windows_i386/meltify.exe",
-                "meltify_0.1.3_Windows_i386/meltify-beldex.exe"
+                "meltify_0.1.4_Windows_i386/meltify.exe",
+                "meltify_0.1.4_Windows_i386/meltify-brave.exe",
+                "meltify_0.1.4_Windows_i386/meltify-beldex.exe",
+                "meltify_0.1.4_Windows_i386/meltify-monero.exe",
+                "meltify_0.1.4_Windows_i386/meltify-polyseed.exe",
+                "meltify_0.1.4_Windows_i386/meltify-info.exe"
             ],
-            "hash": "1d9af717c151c8e2a233d9cea1134d5d2cc3a76bd42deb5e00831e36508e4dbd"
+            "hash": "117c6b9219f62c4be7b6c840471e989836e1f242e1b758f322f78ddbaab79b6e"
         },
         "64bit": {
-            "url": "https://github.com/ZenTenApp/meltify/releases/download/v0.1.3/meltify_0.1.3_Windows_x86_64.zip",
+            "url": "https://github.com/ZenTenApp/meltify/releases/download/v0.1.4/meltify_0.1.4_Windows_x86_64.zip",
             "bin": [
-                "meltify_0.1.3_Windows_x86_64/meltify.exe",
-                "meltify_0.1.3_Windows_x86_64/meltify-beldex.exe"
+                "meltify_0.1.4_Windows_x86_64/meltify.exe",
+                "meltify_0.1.4_Windows_x86_64/meltify-brave.exe",
+                "meltify_0.1.4_Windows_x86_64/meltify-beldex.exe",
+                "meltify_0.1.4_Windows_x86_64/meltify-monero.exe",
+                "meltify_0.1.4_Windows_x86_64/meltify-polyseed.exe",
+                "meltify_0.1.4_Windows_x86_64/meltify-info.exe"
             ],
-            "hash": "317c96c7520ff3f5112e6ca8155a9c62d9115abdb9f33c008a823c90d6a914b4"
+            "hash": "bdba4dfca4d0b337884dac87b764aae3adc4dc87e3805077c78a92584db5296c"
         }
     },
     "homepage": "https://github.com/ZenTenApp/meltify",
