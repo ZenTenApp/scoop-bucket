@@ -1,29 +1,29 @@
 {
-    "version": "0.1.8",
+    "version": "0.1.9",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/ZenTenApp/meltify/releases/download/v0.1.8/meltify_0.1.8_Windows_i386.zip",
+            "url": "https://github.com/ZenTenApp/meltify/releases/download/v0.1.9/meltify_0.1.9_Windows_i386.zip",
             "bin": [
-                "meltify_0.1.8_Windows_i386/meltify.exe",
-                "meltify_0.1.8_Windows_i386/meltify-brave.exe",
-                "meltify_0.1.8_Windows_i386/meltify-beldex.exe",
-                "meltify_0.1.8_Windows_i386/meltify-monero.exe",
-                "meltify_0.1.8_Windows_i386/meltify-polyseed.exe",
-                "meltify_0.1.8_Windows_i386/meltify-info.exe"
+                "meltify_0.1.9_Windows_i386/meltify.exe",
+                "meltify_0.1.9_Windows_i386/meltify-brave.exe",
+                "meltify_0.1.9_Windows_i386/meltify-beldex.exe",
+                "meltify_0.1.9_Windows_i386/meltify-monero.exe",
+                "meltify_0.1.9_Windows_i386/meltify-polyseed.exe",
+                "meltify_0.1.9_Windows_i386/meltify-info.exe"
             ],
-            "hash": "f7af50b0eb5ed3dbedded261ce0a400b70b6fa661da9b1677cc27d2f2152bb1a"
+            "hash": "d5131a19a891c7c07d19e06ac06294c41d76e7227c4cfbf831834ab14bb531f5"
         },
         "64bit": {
-            "url": "https://github.com/ZenTenApp/meltify/releases/download/v0.1.8/meltify_0.1.8_Windows_x86_64.zip",
+            "url": "https://github.com/ZenTenApp/meltify/releases/download/v0.1.9/meltify_0.1.9_Windows_x86_64.zip",
             "bin": [
-                "meltify_0.1.8_Windows_x86_64/meltify.exe",
-                "meltify_0.1.8_Windows_x86_64/meltify-brave.exe",
-                "meltify_0.1.8_Windows_x86_64/meltify-beldex.exe",
-                "meltify_0.1.8_Windows_x86_64/meltify-monero.exe",
-                "meltify_0.1.8_Windows_x86_64/meltify-polyseed.exe",
-                "meltify_0.1.8_Windows_x86_64/meltify-info.exe"
+                "meltify_0.1.9_Windows_x86_64/meltify.exe",
+                "meltify_0.1.9_Windows_x86_64/meltify-brave.exe",
+                "meltify_0.1.9_Windows_x86_64/meltify-beldex.exe",
+                "meltify_0.1.9_Windows_x86_64/meltify-monero.exe",
+                "meltify_0.1.9_Windows_x86_64/meltify-polyseed.exe",
+                "meltify_0.1.9_Windows_x86_64/meltify-info.exe"
             ],
-            "hash": "6a0c3d6dd1503afe657376b5c48709f085836e27fd988f5991abb573752dc6d9"
+            "hash": "391818e4f596646d601e54c56dee15fa74c930b330c52d65c703af03247881ce"
         }
     },
     "homepage": "https://github.com/ZenTenApp/meltify",
