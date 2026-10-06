@@ -1,33 +1,37 @@
 {
-    "version": "0.1.17",
+    "version": "0.1.18",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/ZenTenApp/meltify/releases/download/v0.1.17/meltify_0.1.17_Windows_i386.zip",
+            "url": "https://github.com/ZenTenApp/meltify/releases/download/v0.1.18/meltify_0.1.18_Windows_i386.zip",
             "bin": [
-                "meltify_0.1.17_Windows_i386/meltify.exe",
-                "meltify_0.1.17_Windows_i386/meltify-brave.exe",
-                "meltify_0.1.17_Windows_i386/meltify-beldex.exe",
-                "meltify_0.1.17_Windows_i386/meltify-monero.exe",
-                "meltify_0.1.17_Windows_i386/meltify-polyseed.exe",
-                "meltify_0.1.17_Windows_i386/meltify-info.exe",
-                "meltify_0.1.17_Windows_i386/meltify-pgp.exe",
-                "meltify_0.1.17_Windows_i386/meltify-onion.exe"
+                "meltify_0.1.18_Windows_i386/meltify.exe",
+                "meltify_0.1.18_Windows_i386/meltify-brave.exe",
+                "meltify_0.1.18_Windows_i386/meltify-beldex.exe",
+                "meltify_0.1.18_Windows_i386/meltify-monero.exe",
+                "meltify_0.1.18_Windows_i386/meltify-polyseed.exe",
+                "meltify_0.1.18_Windows_i386/meltify-info.exe",
+                "meltify_0.1.18_Windows_i386/meltify-pgp.exe",
+                "meltify_0.1.18_Windows_i386/meltify-onion.exe",
+                "meltify_0.1.18_Windows_i386/meltify-rsa.exe",
+                "meltify_0.1.18_Windows_i386/meltify-dkim.exe"
             ],
-            "hash": "1c9a58ac76db270f2cab113a0bfd932b1ad568ed6c6a17c90dddb48e0ef041bb"
+            "hash": "f658581cffbe2b3fb17b89cf9e7ee09f59df713e87ae3fd01c895133d47743c1"
         },
         "64bit": {
-            "url": "https://github.com/ZenTenApp/meltify/releases/download/v0.1.17/meltify_0.1.17_Windows_x86_64.zip",
+            "url": "https://github.com/ZenTenApp/meltify/releases/download/v0.1.18/meltify_0.1.18_Windows_x86_64.zip",
             "bin": [
-                "meltify_0.1.17_Windows_x86_64/meltify.exe",
-                "meltify_0.1.17_Windows_x86_64/meltify-brave.exe",
-                "meltify_0.1.17_Windows_x86_64/meltify-beldex.exe",
-                "meltify_0.1.17_Windows_x86_64/meltify-monero.exe",
-                "meltify_0.1.17_Windows_x86_64/meltify-polyseed.exe",
-                "meltify_0.1.17_Windows_x86_64/meltify-info.exe",
-                "meltify_0.1.17_Windows_x86_64/meltify-pgp.exe",
-                "meltify_0.1.17_Windows_x86_64/meltify-onion.exe"
+                "meltify_0.1.18_Windows_x86_64/meltify.exe",
+                "meltify_0.1.18_Windows_x86_64/meltify-brave.exe",
+                "meltify_0.1.18_Windows_x86_64/meltify-beldex.exe",
+                "meltify_0.1.18_Windows_x86_64/meltify-monero.exe",
+                "meltify_0.1.18_Windows_x86_64/meltify-polyseed.exe",
+                "meltify_0.1.18_Windows_x86_64/meltify-info.exe",
+                "meltify_0.1.18_Windows_x86_64/meltify-pgp.exe",
+                "meltify_0.1.18_Windows_x86_64/meltify-onion.exe",
+                "meltify_0.1.18_Windows_x86_64/meltify-rsa.exe",
+                "meltify_0.1.18_Windows_x86_64/meltify-dkim.exe"
             ],
-            "hash": "3b5be115ce91254e46eaf0de13532cfce91d40092ef5bdec0cf461f8a9616346"
+            "hash": "fd3d0532b9aaebcb55af7609ba36fc580bbaf44c55d345371cfffdb3a7453b1a"
         }
     },
     "homepage": "https://github.com/ZenTenApp/meltify",
