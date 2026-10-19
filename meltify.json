@@ -1,45 +1,45 @@
 {
-    "version": "0.1.24",
+    "version": "0.1.25",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/ZenTenApp/meltify/releases/download/v0.1.24/meltify_0.1.24_Windows_i386.zip",
+            "url": "https://github.com/ZenTenApp/meltify/releases/download/v0.1.25/meltify_0.1.25_Windows_i386.zip",
             "bin": [
-                "meltify_0.1.24_Windows_i386/meltify.exe",
-                "meltify_0.1.24_Windows_i386/meltify-brave.exe",
-                "meltify_0.1.24_Windows_i386/meltify-beldex.exe",
-                "meltify_0.1.24_Windows_i386/meltify-monero.exe",
-                "meltify_0.1.24_Windows_i386/meltify-polyseed.exe",
-                "meltify_0.1.24_Windows_i386/meltify-info.exe",
-                "meltify_0.1.24_Windows_i386/meltify-pgp.exe",
-                "meltify_0.1.24_Windows_i386/meltify-onion.exe",
-                "meltify_0.1.24_Windows_i386/meltify-rsa.exe",
-                "meltify_0.1.24_Windows_i386/meltify-dkim.exe",
-                "meltify_0.1.24_Windows_i386/meltify-dnssec.exe",
-                "meltify_0.1.24_Windows_i386/meltify-i2p.exe",
-                "meltify_0.1.24_Windows_i386/meltify-wireguard.exe",
-                "meltify_0.1.24_Windows_i386/meltify-jks.exe"
+                "meltify_0.1.25_Windows_i386/meltify.exe",
+                "meltify_0.1.25_Windows_i386/meltify-brave.exe",
+                "meltify_0.1.25_Windows_i386/meltify-beldex.exe",
+                "meltify_0.1.25_Windows_i386/meltify-monero.exe",
+                "meltify_0.1.25_Windows_i386/meltify-polyseed.exe",
+                "meltify_0.1.25_Windows_i386/meltify-info.exe",
+                "meltify_0.1.25_Windows_i386/meltify-pgp.exe",
+                "meltify_0.1.25_Windows_i386/meltify-onion.exe",
+                "meltify_0.1.25_Windows_i386/meltify-rsa.exe",
+                "meltify_0.1.25_Windows_i386/meltify-dkim.exe",
+                "meltify_0.1.25_Windows_i386/meltify-dnssec.exe",
+                "meltify_0.1.25_Windows_i386/meltify-i2p.exe",
+                "meltify_0.1.25_Windows_i386/meltify-wireguard.exe",
+                "meltify_0.1.25_Windows_i386/meltify-jks.exe"
             ],
-            "hash": "a66da889c4022f45cc483d6473441c85f81b74c65222039af46e08ac41989d39"
+            "hash": "4b68beb68825d11667a224f885e611d7e6e341b1a851d7bf5e7b5ca3da893ca2"
         },
         "64bit": {
-            "url": "https://github.com/ZenTenApp/meltify/releases/download/v0.1.24/meltify_0.1.24_Windows_x86_64.zip",
+            "url": "https://github.com/ZenTenApp/meltify/releases/download/v0.1.25/meltify_0.1.25_Windows_x86_64.zip",
             "bin": [
-                "meltify_0.1.24_Windows_x86_64/meltify.exe",
-                "meltify_0.1.24_Windows_x86_64/meltify-brave.exe",
-                "meltify_0.1.24_Windows_x86_64/meltify-beldex.exe",
-                "meltify_0.1.24_Windows_x86_64/meltify-monero.exe",
-                "meltify_0.1.24_Windows_x86_64/meltify-polyseed.exe",
-                "meltify_0.1.24_Windows_x86_64/meltify-info.exe",
-                "meltify_0.1.24_Windows_x86_64/meltify-pgp.exe",
-                "meltify_0.1.24_Windows_x86_64/meltify-onion.exe",
-                "meltify_0.1.24_Windows_x86_64/meltify-rsa.exe",
-                "meltify_0.1.24_Windows_x86_64/meltify-dkim.exe",
-                "meltify_0.1.24_Windows_x86_64/meltify-dnssec.exe",
-                "meltify_0.1.24_Windows_x86_64/meltify-i2p.exe",
-                "meltify_0.1.24_Windows_x86_64/meltify-wireguard.exe",
-                "meltify_0.1.24_Windows_x86_64/meltify-jks.exe"
+                "meltify_0.1.25_Windows_x86_64/meltify.exe",
+                "meltify_0.1.25_Windows_x86_64/meltify-brave.exe",
+                "meltify_0.1.25_Windows_x86_64/meltify-beldex.exe",
+                "meltify_0.1.25_Windows_x86_64/meltify-monero.exe",
+                "meltify_0.1.25_Windows_x86_64/meltify-polyseed.exe",
+                "meltify_0.1.25_Windows_x86_64/meltify-info.exe",
+                "meltify_0.1.25_Windows_x86_64/meltify-pgp.exe",
+                "meltify_0.1.25_Windows_x86_64/meltify-onion.exe",
+                "meltify_0.1.25_Windows_x86_64/meltify-rsa.exe",
+                "meltify_0.1.25_Windows_x86_64/meltify-dkim.exe",
+                "meltify_0.1.25_Windows_x86_64/meltify-dnssec.exe",
+                "meltify_0.1.25_Windows_x86_64/meltify-i2p.exe",
+                "meltify_0.1.25_Windows_x86_64/meltify-wireguard.exe",
+                "meltify_0.1.25_Windows_x86_64/meltify-jks.exe"
             ],
-            "hash": "ea0fd90c12ad0a47a5bcccaa843ef2cfd3c3444fcc32c9c3f60ca2f741efd1d3"
+            "hash": "6e14f6f443cda30e89bb03aa28e3017863af8abb04e40037c1c0d4c8df95ea1e"
         }
     },
     "homepage": "https://github.com/ZenTenApp/meltify",
